@@ -9,7 +9,7 @@ Due to the large volume of corn yield data and daily temperature trajectories, p
 yeonjoo.park [at] utsa.edu
 
 ### Source Code
-- `FNN_source/`: Source code for Functional Neural Network (FNN) models  
+- `FNN_source/`: Source code for Functional Neural Network (FNN) models - borrowed from: Wang, S., & Cao, G. (2025). Deep Neural Network for Functional Graphical Models Structure Learning. Journal of Computational and Graphical Statistics, 1–12. https://doi.org/10.1080/10618600.2025.2551268
 - `functions_source/`: Supporting functions used across models and experiments  
 
 ### Main Script
