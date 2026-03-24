@@ -1,6 +1,6 @@
 ## Code for "Spatially Varying Deep Functional Neural Network: Application in Large-Scale Crop Yield Prediction"
 
-## Data
+### Data
 - `loc.info.RData`: County location information  
 - `regdat.loc.RData`: Regional location data  
 - `precipitation.RData`: Precipitation information  
