@@ -3,8 +3,8 @@
 ### Data
 - `loc.info.RData`: County location information
 - `precipitation.RData`: Various precipitation data summary, including daily, quartely, monthly average. In this work, we used the monthly average
-- `regdat.loc`: For supporting information
-- `MRTS.dat.10` and `MRTS.dat.150`: MRTS basis functions dimensionality 10 and 150
+- `regdat.loc.RData`: For supporting information
+- `MRTS.dat.10.RData` and `MRTS.dat.150.RData`: MRTS basis functions dimensionality 10 and 150
 - Due to the large volume of corn yield data and daily temperature trajectories, please request the data link by email:  
 yeonjoo.park [at] utsa.edu
 
